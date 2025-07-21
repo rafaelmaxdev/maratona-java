@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionais {
+public class Aula05EstruturasCondicionais01 {
     public static void main(String[] args) {
         int age = 15;
         boolean isAuthorizedToPurchaseAlcoholicBeverages = age >= 18;
